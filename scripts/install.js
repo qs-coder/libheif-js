@@ -9,9 +9,9 @@ const gunzip = require('gunzip-maybe');
 const esbuild = require('esbuild');
 const { nodeModulesPolyfillPlugin } = require('esbuild-plugins-node-modules-polyfill');
 
-const version = 'v1.18.2';
+const version = 'v1.19.5';
 
-const base = `https://github.com/catdad-experiments/libheif-emscripten/releases/download/${version}`;
+const base = `https://github.com/qs-coder/libheif-emscripten/releases/download/${version}`;
 const tarball = `${base}/libheif.tar.gz`;
 
 const getStream = async url => {

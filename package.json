@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/catdad-experiments/libheif-js.git"
+    "url": "git+https://github.com/qs-coder/libheif-js.git"
   },
   "files": [
     "index.js",
@@ -22,12 +22,12 @@
     "libheif",
     "libheif-wasm"
   ],
-  "author": "Kiril Vatev <vatev.1@gmail.com>",
+  "author": "Qs Coder <chenpenglei000@gmail.com>",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/catdad-experiments/libheif-js/issues"
+    "url": "https://github.com/qs-coder/libheif-js/issues"
   },
-  "homepage": "https://github.com/catdad-experiments/libheif-js#readme",
+  "homepage": "https://github.com/qs-coder/libheif-js#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "chai": "^4.2.0",
