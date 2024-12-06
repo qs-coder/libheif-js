@@ -9,11 +9,11 @@
 
 [github-actions-test.link]: https://github.com/qs-coder/libheif-js/actions?query=workflow%3ACI
 [github-actions-test.svg]: https://github.com/qs-coder/libheif-js/actions/workflows/ci.yml/badge.svg
-[npm-downloads.svg]: https://img.shields.io/npm/dm/libheif-js.svg
-[npm.link]: https://www.npmjs.com/package/libheif-js
-[npm-version.svg]: https://img.shields.io/npm/v/libheif-js.svg
-[jsdelivr.svg]: https://img.shields.io/jsdelivr/npm/hm/libheif-js?color=bd33a4
-[jsdelivr.link]: https://www.jsdelivr.com/package/npm/libheif-js
+[npm-downloads.svg]: https://img.shields.io/npm/dm/@qs-coder/libheif-js.svg
+[npm.link]: https://www.npmjs.com/package/@qs-coder/libheif-js
+[npm-version.svg]: https://img.shields.io/npm/v/@qs-coder/libheif-js.svg
+[jsdelivr.svg]: https://img.shields.io/jsdelivr/npm/hm/@qs-coder/libheif-js?color=bd33a4
+[jsdelivr.link]: https://www.jsdelivr.com/package/npm/@qs-coder/libheif-js
 
 This module will respect the major and minor versions of the included `libheif`, with the patch version representing changes in this module itself. For the exact version of `libheif`, please see the [install script](scripts/install.js).
 
