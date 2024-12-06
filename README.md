@@ -25,7 +25,7 @@ npm install @qs-coder/libheif-js
 
 ## Usage
 
-Starting with version 1.17, there are multiple variants of `libheif` that you can use:
+Starting with version 1.19.5, there are multiple variants of `libheif` that you can use:
 
 * The default is still the classic pure-javascript implementation (for backwards compatibility, of course). You can still bundle this into your project with your bundler of choice.
   ```js
