@@ -1,6 +1,6 @@
 {
   "name": "@qs-coder/libheif-js",
-  "version": "1.9.6",
+  "version": "1.19.6",
   "description": "Emscripten distribution of libheif for Node.JS and the browser",
   "main": "index.js",
   "scripts": {
